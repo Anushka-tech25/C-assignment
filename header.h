@@ -1,4 +1,4 @@
-// #pragma once
+
 
 int factorial(int n);
 int evenodd(int l);
